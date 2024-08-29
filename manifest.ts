@@ -11,7 +11,7 @@ export default Manifest({
   icon: "assets/default_new_app_icon.png",
   functions: [],
   workflows: [],
-  outgoingDomains: ["api.salesforce.com", "d7u000000i8qbuak.my.salesforce.com"],
+  outgoingDomains: [],
   botScopes: [
     "commands",
     "chat:write",
