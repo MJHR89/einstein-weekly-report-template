@@ -1,4 +1,4 @@
-This function is designed to be used within the Slack Workflow Builder. The function reads Salesforce data and then makes an API call to OpenAI to format this data and summarize it. The summary is then saved as an output variable. 
+This function is designed to be used within the Slack Workflow Builder. The function reads Salesforce data and then makes an API call to EinsteinAI to format this data and summarize it. The summary is then saved as an output variable. 
 
 # Building Conversational AI Apps in Slack
 This is a project used for demonstration purposes for the Building modular Slack apps: Integrating generative AI workshop.
@@ -40,3 +40,6 @@ $ cd my-app
 
 # JOIN THE DEVELOPER PROGRAM
 Sign up for the developer program [here](https://api.slack.com/developer-program)! Events, newsletter, sandboxes, and so much more!!
+
+# CHECK OUT THE NEW DEVELOPER HUB
+Learning resources, workshops, developer stories, and all the tools to build Slack apps [here](https://slack.dev)!
