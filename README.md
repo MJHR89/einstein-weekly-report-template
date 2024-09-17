@@ -22,20 +22,17 @@ You may need to upgrade Powershell to work with the Slack CLI:
 The CLI is optimized to work with this editor, so we highly recommend using it (even if you typically use something else).
 
 ## Test in a workspace
-Free sandboxes to test your app available by signing up to the developer program. Plus so much more support and developer tools! Grab yours here!
+Free sandboxes to test your app available by signing up to the developer program. Plus so much more support and developer tools! Grab yours [here](https://api.slack.com/developer-program/join)!
 
 ## Create a Personal Channel for Testing
 In your workspace, create a channel named testing-yourName
-
-## OpenAI keys
-You can create them here.
 
 ## Clone the Template
 Start by cloning this repository, to build at your own rhythm:
 
 ```
 # Clone this project onto your machine
-$ slack create my-app -t MJHR89/generate-weekly-report-workshop
+$ slack create my-app -t MJHR89/einstein-weekly-report-template
 
 # Change into the project directory
 $ cd my-app
